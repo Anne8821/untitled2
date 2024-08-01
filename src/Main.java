@@ -9,7 +9,7 @@ public class Main {
         System.out.println(dog);
         cat = cat + 4;
         System.out.println(cat);
-        paper = paper * 4;
+        paper = paper + 4;
         System.out.println(paper);
 
         dog = dog - 3.5;
